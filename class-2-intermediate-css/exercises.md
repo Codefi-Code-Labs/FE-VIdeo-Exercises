@@ -1,9 +1,5 @@
 # Intermediate CSS Exercises
 
-## Commit your Progress to Github
-
-Every update you are proud to show off or accomplished is worth a commit even if it means it's not done!
-
 ## Exercise: FluidBiz Co. 
 **Objective**: Create a responsive, fluid layout for a fictional business website. The website should contain a header, three columns (services, main content, testimonials), and a footer.
 
