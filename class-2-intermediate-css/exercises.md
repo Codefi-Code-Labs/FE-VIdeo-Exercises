@@ -11,7 +11,9 @@ HTML Structure: Open index.html in VS Code and add the following elements:
 - A `<header>` with the title "FluidBiz Co." and a navigation bar containing links: Home, Services, Testimonials, and Contact.
 - Three `<div>` elements with the classes .services, .main-content, and .testimonials.
 - A `<footer>` mentioning "Copyright © 2023 FluidBiz Co."
-- Basic Styling: Link your styles.css in your HTML. Set a basic style:
+- Basic Styling: Link your styles.css in your HTML. 
+  
+  **Set a basic style:**
 
 - Set a background color for the body and different background colors for the header, columns, and footer to distinguish them.
 
@@ -81,10 +83,10 @@ Setup: Create a new folder named media-query-exercise. Inside this folder, creat
 **Media Queries:**
 
 - For tablets (screen widths from 481px to 768px):
-- Change the .about and .contact sections to occupy 33% of the container's width.
-- The .projects section should now be 34% wide.
+  - Change the .about and .contact sections to occupy 33% of the container's width.
+  - The .projects section should now be 34% wide.
 - For mobile devices (screen widths up to 480px):
-- Each section should occupy 100% of the container's width and should stack on top of one another.
+  - Each section should occupy 100% of the container's width and should stack on top of one another.
 
 **Test:**
 
@@ -103,14 +105,15 @@ Setup: Create a new folder named media-query-exercise. Inside this folder, creat
 **Instructions**:
 Setup: Create a new folder called flexbox-exercise. Within this folder, establish two files: index.html and styles.css.
 
-HTML Structure: In index.html, set up the following:
+HTML Structure: 
+In index.html, set up the following:
 
 - A `<header>` with the title "Flexbox Photo Gallery".
 - A `<main>` section with a class of .gallery.
 - Inside the .gallery, insert nine `<div>` elements with the class .photo-card. Each .photo-card should contain:
-- An `<img>` displaying a photo of your choice.
-- A `<h3>` with a fictional photo title.
-- A `<p>` with a short description of the photo.
+  - An `<img>` displaying a photo of your choice.
+  - A `<h3>` with a fictional photo title.
+  - A `<p>` with a short description of the photo.
 
 **Base Styling:**
  - Link your styles.css to your HTML. 
@@ -129,9 +132,12 @@ HTML Structure: In index.html, set up the following:
 
 **Responsive Design:**
 
-- On wider screens (greater than 900px): Display the .photo-card elements in three rows, each row containing three photos.
-- On medium screens (between 600px and 900px): Display the .photo-card elements in three rows, each row containing two photos and the last row containing just one photo.
-- On smaller screens (less than 600px): Display each .photo-card in its row.
+- On wider screens (greater than 900px): 
+  - Display the .photo-card elements in three rows, each row containing three photos.
+- On medium screens (between 600px and 900px):
+  -  Display the .photo-card elements in three rows, each row containing two photos and the last row containing just one photo.
+- On smaller screens (less than 600px): 
+  - Display each .photo-card in its row.
 
 **Extra Features (for added challenge):**
 
