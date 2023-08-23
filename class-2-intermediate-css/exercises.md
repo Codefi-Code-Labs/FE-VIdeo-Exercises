@@ -1,4 +1,4 @@
-# Intermediate CSS Exercises
+# Intermediate CSS Exercises (OPTIONAL)
 
 ## Exercise: FluidBiz Co. 
 **Objective**: Create a responsive, fluid layout for a fictional business website. The website should contain a header, three columns (services, main content, testimonials), and a footer.
